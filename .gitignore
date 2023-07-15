@@ -1,4 +1,4 @@
-/data/*/*.m3u8
-/data/*/*.ts
-/data/*/*.flv
-/data/*/*.mp4
+/data/**/*.m3u8
+/data/**/*.ts
+/data/**/*.flv
+/data/**/*.mp4
